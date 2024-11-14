@@ -107,7 +107,7 @@ input::placeholder {
 }
 
 body {
-  background: #FFF9ED;
+  background: var(--white);
 }
 
 
